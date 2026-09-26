@@ -5,7 +5,7 @@ Alle nennenswerten Änderungen an diesem Projekt werden hier dokumentiert.
 Das Format orientiert sich an [Keep a Changelog](https://keepachangelog.com/de/1.1.0/),
 die Versionierung folgt grob [Semantic Versioning](https://semver.org/lang/de/).
 
-🔗 **Live-Dashboard:** https://t6vb9ns645-boop.github.io/ecoflow/dashboard/
+🔗 **Live-Dashboard:** https://h14r.github.io/ecoflow/dashboard/
 
 ---
 
@@ -752,17 +752,17 @@ Erste produktive Version (GitHub Actions Edition).
 - Erstes Chart.js-Dashboard auf GitHub Pages mit Auto-Refresh.
 - Berechnung der Tageserzeugung (Wh seit Mitternacht).
 
-[4.0.0]: https://github.com/t6vb9ns645-boop/ecoflow/releases/tag/v4.0.0
-[3.7.0]: https://github.com/t6vb9ns645-boop/ecoflow/releases/tag/v3.7.0
-[3.6.1]: https://github.com/t6vb9ns645-boop/ecoflow/releases/tag/v3.6.1
-[3.5.0]: https://github.com/t6vb9ns645-boop/ecoflow/releases/tag/v3.5.0
-[3.4.0]: https://github.com/t6vb9ns645-boop/ecoflow/releases/tag/v3.4.0
-[3.3.1]: https://github.com/t6vb9ns645-boop/ecoflow/releases/tag/v3.3.1
-[3.3.0]: https://github.com/t6vb9ns645-boop/ecoflow/releases/tag/v3.3.0
-[3.2.0]: https://github.com/t6vb9ns645-boop/ecoflow/releases/tag/v3.2.0
-[3.1.2]: https://github.com/t6vb9ns645-boop/ecoflow/releases/tag/v3.1.2
-[3.1.1]: https://github.com/t6vb9ns645-boop/ecoflow/releases/tag/v3.1.1
-[3.1.0]: https://github.com/t6vb9ns645-boop/ecoflow/releases/tag/v3.1.0
-[3.0.0]: https://github.com/t6vb9ns645-boop/ecoflow/releases/tag/v3.0.0
-[2.0.0]: https://github.com/t6vb9ns645-boop/ecoflow/releases/tag/v2.0.0
-[1.0.0]: https://github.com/t6vb9ns645-boop/ecoflow/releases/tag/v1.0.0
+[4.0.0]: https://github.com/h14r/ecoflow/releases/tag/v4.0.0
+[3.7.0]: https://github.com/h14r/ecoflow/releases/tag/v3.7.0
+[3.6.1]: https://github.com/h14r/ecoflow/releases/tag/v3.6.1
+[3.5.0]: https://github.com/h14r/ecoflow/releases/tag/v3.5.0
+[3.4.0]: https://github.com/h14r/ecoflow/releases/tag/v3.4.0
+[3.3.1]: https://github.com/h14r/ecoflow/releases/tag/v3.3.1
+[3.3.0]: https://github.com/h14r/ecoflow/releases/tag/v3.3.0
+[3.2.0]: https://github.com/h14r/ecoflow/releases/tag/v3.2.0
+[3.1.2]: https://github.com/h14r/ecoflow/releases/tag/v3.1.2
+[3.1.1]: https://github.com/h14r/ecoflow/releases/tag/v3.1.1
+[3.1.0]: https://github.com/h14r/ecoflow/releases/tag/v3.1.0
+[3.0.0]: https://github.com/h14r/ecoflow/releases/tag/v3.0.0
+[2.0.0]: https://github.com/h14r/ecoflow/releases/tag/v2.0.0
+[1.0.0]: https://github.com/h14r/ecoflow/releases/tag/v1.0.0
