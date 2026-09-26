@@ -5,10 +5,10 @@ PowerStream & Delta 3 Daten via GitHub Actions.
 
 ## 📊 Live-Dashboard
 
-👉 **[Dashboard öffnen](https://t6vb9ns645-boop.github.io/ecoflow/dashboard/)** —
+👉 **[Dashboard öffnen](https://h14r.github.io/ecoflow/dashboard/)** —
 auto-aktualisierend, alle 2 Minuten neue Daten.
 
-🔗 Übersichtsseite: https://t6vb9ns645-boop.github.io/ecoflow/
+🔗 Übersichtsseite: https://h14r.github.io/ecoflow/
 
 ### Aufbau
 
